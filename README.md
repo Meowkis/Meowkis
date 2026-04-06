@@ -33,4 +33,5 @@ RF Explorer UwU
 
 ## 📫 Contact
 
-- GitHub: https://github.com/mwks  
+- GitHub: https://github.com/mwks
+- Blog: ...soon
