@@ -1,4 +1,4 @@
-# 👾 mwks
+# mwks
 
 > mwks — pronounced *meowkis*
 
