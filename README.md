@@ -17,6 +17,15 @@ RF Explorer UwU
 
 ---
 
+## 📵 IRL Tools
+
+- pwnagotchi
+- Flipper Zero
+- HackRF + Portapack H4M
+- RTL SDR v.4
+
+---
+
 ## 🧠 Stack
 
 - Languages: TypeScript, LuaU, c++, Python, some Rust  
