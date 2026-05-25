@@ -11,11 +11,11 @@ ADHD af
 
 ## ⚡ What I do
 
-- DevOps
 - Network engineering
 - Systems engineering & low-level work  
-- Hardware & embedded experimentation  
-
+- Hardware & embedded
+- DevOps
+  
 ---
 
 ## 📵 IRL Tools
