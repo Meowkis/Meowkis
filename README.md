@@ -43,8 +43,6 @@ focus:
   - embedded systems
   - low-level programming
   - infrastructure automation
-
-status: "probably debugging something that should already work"
 ```
 
 ---
