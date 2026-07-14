@@ -179,6 +179,11 @@ occasionally makes computers and radios do unintended things :3
 
 ### Roblox production stack
 
+<details>
+<summary><strong>Architecture, gameplay, UI, networking and tooling</strong></summary>
+
+<br>
+
 #### Architecture and services
 
 ![Flamework](https://img.shields.io/badge/Flamework-E2231A?style=flat-square&logo=roblox&logoColor=white)
@@ -226,6 +231,8 @@ occasionally makes computers and radios do unintended things :3
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![BloxStack](https://img.shields.io/badge/BloxStack-E2231A?style=flat-square&logo=roblox&logoColor=white)
 
+</details>
+
 ---
 
 ## Hardware inventory
@@ -235,7 +242,8 @@ occasionally makes computers and radios do unintended things :3
 | **HackRF + PortaPack H4M** | RF experimentation, signal analysis and portable SDR   |
 | **RTL-SDR Blog V4**        | Spectrum monitoring and signal reception               |
 | **Flipper Zero**           | Hardware interfaces and wireless protocol research     |
-| **Pwnagotchi**/**Bjorn**   | Wi-Fi experimentation and autonomous packet collection |
+| **Pwnagotchi** / **Bjorn** | Wi-Fi experimentation and autonomous packet collection |
+| **Meta Quest 3**           | VR development, testing and simulation experimentation |
 
 ---
 
