@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="./assets/furry.gif" alt="furry coding animation" width="520">
+<img src="https://cdn.discordapp.com/attachments/1163557602425319526/1398495362678784080/IMG_0130.gif?ex=6a56f34d&is=6a55a1cd&hm=33c425582c4d787d5ca030a2af44f6ab6b669cc2b3bf82ddd8cb3916e6c1b5c4&" alt="furry" width="520">
 
 <br>
 <sub> Silly :3</sub>
