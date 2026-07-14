@@ -166,10 +166,8 @@ occasionally makes computers and radios do unintended things :3
 ![GPIO](https://img.shields.io/badge/GPIO-444444?style=flat-square)
 
 ![Oscilloscope](https://img.shields.io/badge/Oscilloscope-005571?style=flat-square)
-![Multimeter](https://img.shields.io/badge/Multimeter-F4D03F?style=flat-square)
 ![Flipper Zero](https://img.shields.io/badge/Flipper_Zero-000000?style=flat-square)
 ![SDRangel](https://img.shields.io/badge/SDRangel-2C3E50?style=flat-square)
-![Airspy](https://img.shields.io/badge/Airspy-005571?style=flat-square)
 
 ### Development environment
 
