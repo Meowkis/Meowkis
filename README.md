@@ -12,13 +12,13 @@
 
 </div>
 
-<!-- Put your GIF at assets/furry.gif -->
+
 <div align="center">
 
 <img src="./assets/furry.gif" alt="furry coding animation" width="520">
 
 <br>
-<sub>radio waves, packet traces and creature energy :3</sub>
+<sub> Silly :3</sub>
 
 </div>
 
