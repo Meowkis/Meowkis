@@ -34,12 +34,15 @@ occasionally makes computers and radios do unintended things :3
 
 ## Current interests
 
-* **Network engineering** — infrastructure, routing, traffic analysis, protocols
+* **Network engineering** — infrastructure, routing, traffic analysis and protocols
 * **Systems engineering** — Linux, operating systems and low-level internals
-* **Hardware and embedded** — microcontrollers, interfaces, hardware experimentation
-* **DevOps** — containers, automation, environments
-* **Reverse engineering** — software, protocols, hardware behavior
-* **RF experimentation** — SDR, signal analysis, wireless systems
+* **Hardware and embedded** — microcontrollers, interfaces and hardware experimentation
+* **DevOps** — containers, automation and reproducible environments
+* **Full-stack web development** — used to do websites, web applications, APIs, backends etc.
+* **Reverse engineering** — software, protocols and hardware behavior
+* **RF experimentation** — SDR, signal analysis and wireless systems
+* **Metaverse development** — avatars, worlds and interactive systems, primarily for VRChat using Unity and the VRChat SDK
+* **Game development** — previously developed production-grade Roblox experiences and systems.
 
 ---
 
@@ -107,13 +110,13 @@ alt="mwks GitHub contribution streak"
 
 ---
 
-## Contact
+## The best places to find me:
 
-The best places to find me:
 
-* **GitHub:** [github.com/mwks](https://github.com/mwks)
-* **Blog:** [blog.meowkis.ru](https://blog.meowkis.ru)
-* **Email:** [admin@meowkis.ru](mailto:admin@meowkis.ru)
+
+* **123:** 123
+* **123:** 123
+* **123:** 123
 
 ---
 
