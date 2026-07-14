@@ -32,7 +32,7 @@ interested in systems, protocols and hardware
 occasionally makes computers and radios do unintended things :3
 ```
 
-## What I do
+## Current interests
 
 * **Network engineering** — infrastructure, routing, traffic analysis, protocols
 * **Systems engineering** — Linux, operating systems and low-level internals
@@ -40,20 +40,6 @@ occasionally makes computers and radios do unintended things :3
 * **DevOps** — containers, automation, environments
 * **Reverse engineering** — software, protocols, hardware behavior
 * **RF experimentation** — SDR, signal analysis, wireless systems
-
----
-
-## Current interests
-
-```yaml
-focus:
-  - networking
-  - software-defined radio
-  - reverse engineering
-  - embedded systems
-  - low-level programming
-  - infrastructure automation
-```
 
 ---
 
