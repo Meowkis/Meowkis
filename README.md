@@ -179,38 +179,52 @@ occasionally makes computers and radios do unintended things :3
 
 ### Roblox production stack
 
-<details>
-<summary><strong>Architecture, gameplay, UI, networking and tooling</strong></summary>
+#### Architecture and services
 
-<br>
+![Flamework](https://img.shields.io/badge/Flamework-E2231A?style=flat-square&logo=roblox&logoColor=white)
+![Jecs](https://img.shields.io/badge/Jecs-8B5CF6?style=flat-square&logo=roblox&logoColor=white)
+![Matter](https://img.shields.io/badge/Matter-6366F1?style=flat-square&logo=roblox&logoColor=white)
+![Planck](https://img.shields.io/badge/Planck-4F46E5?style=flat-square&logo=roblox&logoColor=white)
 
-**Architecture and services**
+#### UI and animation
 
-`Flamework` · `Jecs` · `Matter` · `Planck`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![roact-spring](https://img.shields.io/badge/roact--spring-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Lifetime Component](https://img.shields.io/badge/React_Lifetime_Component-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![UI Labs](https://img.shields.io/badge/UI_Labs-E2231A?style=flat-square&logo=roblox&logoColor=white)
+![Springs](https://img.shields.io/badge/Springs-06B6D4?style=flat-square)
 
-**UI and animation**
+#### Signals and state management
 
-`React` · `roact-spring` · `@rbxts/react-lifetime-component` · `UI Labs` · `Springs`
+![lemon-signal](https://img.shields.io/badge/lemon--signal-FACC15?style=flat-square)
+![Janitor](https://img.shields.io/badge/Janitor-64748B?style=flat-square)
+![Promises](https://img.shields.io/badge/Promises-3B82F6?style=flat-square)
+![Charm](https://img.shields.io/badge/Charm-EC4899?style=flat-square)
+![Sift](https://img.shields.io/badge/Sift-14B8A6?style=flat-square)
+![Immut](https://img.shields.io/badge/Immut-10B981?style=flat-square)
 
-**Signals and state management**
+#### Networking and persistence
 
-`lemon-signal` · `Janitor` · `Promises` · `Charm` · `Sift` · `Immut`
+![Blink](https://img.shields.io/badge/Blink-2563EB?style=flat-square)
+![DocumentService](https://img.shields.io/badge/DocumentService-059669?style=flat-square&logo=roblox&logoColor=white)
 
-**Networking and persistence**
+#### Development and debugging
 
-`Blink` · `DocumentService`
+![Rojo](https://img.shields.io/badge/Rojo-E2231A?style=flat-square&logo=roblox&logoColor=white)
+![roblox-ts](https://img.shields.io/badge/roblox--ts-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Luau LSP](https://img.shields.io/badge/Luau_LSP-00A2FF?style=flat-square&logo=lua&logoColor=white)
+![Selene](https://img.shields.io/badge/Selene-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![pesde](https://img.shields.io/badge/pesde-C2410C?style=flat-square)
+![Rokit](https://img.shields.io/badge/Rokit-7C3AED?style=flat-square)
 
-**Development and debugging**
+![Jabby Debugger](https://img.shields.io/badge/Jabby_Debugger-DC2626?style=flat-square)
+![Iris](https://img.shields.io/badge/Iris-9333EA?style=flat-square)
+![Hammer](https://img.shields.io/badge/Hammer-475569?style=flat-square)
 
-`Rojo` · `roblox-ts` · `Luau LSP` · `Selene` · `pesde` · `Rokit`
+#### AI-assisted development
 
-`Jabby Debugger` · `Iris` · `Hammer`
-
-**AI-assisted development**
-
-`Cursor` · `BloxStack`
-
-</details>
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![BloxStack](https://img.shields.io/badge/BloxStack-E2231A?style=flat-square&logo=roblox&logoColor=white)
 
 ---
 
