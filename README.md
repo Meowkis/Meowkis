@@ -88,11 +88,24 @@ focus:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mwks&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="mwks GitHub statistics">
+<img
+height="165"
+src="https://github-stats-extended.vercel.app/api?username=mwks&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+alt="mwks GitHub statistics"
+/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwks&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages">
+<img
+height="165"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=mwks&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+alt="mwks most used languages"
+/>
 
-<img src="https://streak-stats.demolab.com?user=mwks&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+<br>
+
+<img
+src="https://streak-stats.demolab.com?user=mwks&theme=tokyonight&hide_border=true"
+alt="mwks GitHub contribution streak"
+/>
 
 </div>
 
