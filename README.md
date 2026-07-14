@@ -4,11 +4,21 @@
 
 ### systems, networks, hardware & RF
 
-**Pronounced:** `meowkis` · **Powered by:** caffeine
+**Pronounced:** `meowkis` · **Powered by:** Arch, radio waves and caffeine
 
 [![GitHub](https://img.shields.io/badge/GitHub-mwks-181717?style=for-the-badge\&logo=github)](https://github.com/mwks)
 [![Blog](https://img.shields.io/badge/Blog-meowkis.ru-0A0A0A?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://blog.meowkis.ru)
 [![Email](https://img.shields.io/badge/Email-admin%40meowkis.ru-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:admin@meowkis.ru)
+
+</div>
+
+<!-- Put your GIF at assets/furry.gif -->
+<div align="center">
+
+<img src="./assets/furry.gif" alt="furry coding animation" width="520">
+
+<br>
+<sub>radio waves, packet traces and creature energy :3</sub>
 
 </div>
 
