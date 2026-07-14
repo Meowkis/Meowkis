@@ -30,7 +30,7 @@ ADHD af
 ## 🧠 Stack
 
 - Languages: TypeScript, LuaU, c++, Python, some Rust  
-- Platforms: Linux
+- Platforms: Linux, Windows, macOS, Android
 - Tools: Docker, Git
 - Interests: networking, reverse engineering, RF
 
