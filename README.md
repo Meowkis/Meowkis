@@ -33,15 +33,15 @@ interested in systems, protocols and hardware
 
 ## Current interests
 
-* **Network engineering** — infrastructure, routing, traffic analysis and protocols
-* **Systems engineering** — Linux, operating systems and low-level internals
-* **Hardware and embedded** — microcontrollers, interfaces and hardware experimentation
-* **DevOps** — containers, automation and reproducible environments
-* **Full-stack web development** — used to do websites, web applications, APIs, backends etc.
-* **Reverse engineering** — software, protocols and hardware behavior
-* **RF experimentation** — SDR, signal analysis and wireless systems
-* **Metaverse development** — avatars, worlds and interactive systems, primarily for VRChat using Unity and the VRChat SDK
-* **Game development** — previously developed production-grade Roblox experiences and systems.
+* **Network engineering**
+* **Systems engineering**
+* **Hardware and embedded**
+* **DevOps**
+* **Full-stack web development**
+* **Reverse engineering**
+* **RF experimentation**
+* **Metaverse development** - primarily for VRChat using Unity and the VRChat SDK
+* **Game development** - previously developed production-grade Roblox experiences and systems.
 
 ---
 
