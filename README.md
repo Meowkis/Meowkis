@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-mwks-181717?style=for-the-badge\&logo=github)](https://github.com/mwks)
 [![Blog](https://img.shields.io/badge/Blog-meowkis.ru-0A0A0A?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://blog.meowkis.ru)
-[![Email](https://img.shields.io/badge/Email-admin%40meowkis.ru-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kittycat@meowkis.ru)
+[![Email](https://img.shields.io/badge/Email-kittycat%40meowkis.ru-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kittycat@meowkis.ru)
 
 </div>
 
