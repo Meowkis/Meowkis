@@ -4,7 +4,7 @@
 
 ### systems, networks, hardware & RF
 
-**Pronounced:** `meowkis` · **Powered by:** caffeine
+**Pronounced:** `meowkis` · **Powered by:** caffeine *since 2019*
 
 [![GitHub](https://img.shields.io/badge/GitHub-mwks-181717?style=for-the-badge\&logo=github)](https://github.com/mwks)
 [![Blog](https://img.shields.io/badge/Blog-meowkis.ru-0A0A0A?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://blog.meowkis.ru)
