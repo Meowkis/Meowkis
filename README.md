@@ -2,7 +2,7 @@
 
 # mwks
 
-### systems, networks, hardware & RF
+### God's in his heaven, all's right with the world
 
 **Pronounced:** `meowkis` · **Powered by:** caffeine *since 2019*
 
