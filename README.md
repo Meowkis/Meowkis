@@ -34,12 +34,11 @@ interested in systems, protocols and hardware
 ## Current interests
 
 * **Network engineering**
-* **Systems engineering**
 * **Hardware and embedded**
 * **DevOps**
-* **Full-stack web development**
+* **Web development** - primarily backend, but I do frontend aswell
 * **Reverse engineering**
-* **RF experimentation**
+* **RF experimentation** - I own an amateur radio telescope for the HI line.
 * **Metaverse development** - primarily for VRChat using Unity and the VRChat SDK
 * **Game development** - previously developed production-grade Roblox experiences and systems.
 
