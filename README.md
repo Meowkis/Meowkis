@@ -28,7 +28,6 @@
 
 ```text
 developer, network engineer and RF explorer
-interested in systems, protocols and hardware
 ```
 
 ## Current interests
