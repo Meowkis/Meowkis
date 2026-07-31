@@ -24,14 +24,9 @@
 
 ## About
 
-I build and maintain self-hosted infrastructure,
-network services and automation tools, with an 
-emphasis on systems that interact with real hardware.
+I build and maintain self-hosted infrastructure, network services and automation tools, including systems that interact with physical hardware.
 
-My work includes VPN and Matrix infrastructure, 
-reverse proxies, containerized services, 
-internal administration platforms and production 
-Roblox backend systems. 
+My work includes VPN and Matrix infrastructure, reverse proxies, containerized services, internal administration tools and production Roblox backend systems.
 
 I am currently exploring embedded development, SDR and radio astronomy.
 
@@ -39,21 +34,19 @@ I am currently exploring embedded development, SDR and radio astronomy.
 
 ### [Esublim](https://github.com/Meowkis/Esublim)
 
-A Wayland-native reimplementation of `asublim`, built with GTK4 and 
-`gtk4-layer-shell` for compositors such as Hyprland and Sway. 
+A Wayland-native reimplementation of `asublim`, built with GTK4 and `gtk4-layer-shell` for compositors such as Hyprland and Sway.
 
 `C` `GTK4` `Wayland` `wlr-layer-shell`
 
 ### [Meowboard](https://github.com/Meowkis/meowboard-js)
 
-A self-hosted multimedia moodboard with multiple content types, 
-anonymous reactions and a protected administration interface. 
+A self-hosted multimedia moodboard with multiple content types, anonymous reactions and a protected administration interface.
 
 `Node.js` `Express` `SQLite` `Nunjucks` `HTMX` `Docker`
 
 ## Core stack
 
-**Languages:** TypeScript, Python, Luau, C, C++ <br>
-**Infrastructure:** Linux, Docker, Caddy, PostgreSQL  <br>
-**Networking:** VPN infrastructure, reverse proxies, Matrix  <br>
-**Embedded & RF:** ESP32, HackRF, RTL-SDR <br>
+**Languages:** TypeScript, Python, Luau, C, C++
+**Infrastructure:** Linux, Docker, Caddy, PostgreSQL
+**Networking:** VPN infrastructure, reverse proxies, Matrix
+**Embedded & RF:** ESP32, HackRF, RTL-SDR
