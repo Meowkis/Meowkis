@@ -24,36 +24,36 @@
 
 ## About
 
-I build and maintain self-hosted infrastructure, network services,
-automation tools and systems that span software and physical hardware.
+I build and maintain self-hosted infrastructure, network services, <br>
+automation tools and systems that span software and physical hardware. <br>
 
-My experience includes VPN infrastructure, reverse proxies,
-containerized services, internal platforms and production Roblox
-gameplay and backend systems.
+My experience includes VPN infrastructure, reverse proxies, <br>
+containerized services, internal platforms and production Roblox <br>
+gameplay and backend systems. <br>
 
-I am particularly interested in systems that connect software with
-networks and physical hardware — including embedded development, SDR
-and radio astronomy.
+I am particularly interested in systems that connect software with <br>
+networks and physical hardware — including embedded development, SDR <br>
+and radio astronomy. <br>
 
 ## Selected projects
 
 ### [Esublim](https://github.com/Meowkis/Esublim)
 
-A Wayland-native reimplementation of `asublim`, built with GTK4 and
-`gtk4-layer-shell` for compositors such as Hyprland and Sway.
+A Wayland-native reimplementation of `asublim`, built with GTK4 and <br>
+`gtk4-layer-shell` for compositors such as Hyprland and Sway. <br>
 
 `C` `GTK4` `Wayland` `wlr-layer-shell`
 
 ### [Meowboard](https://github.com/Meowkis/meowboard-js)
 
-A self-hosted multimedia moodboard with multiple content types,
-anonymous reactions and a protected administration interface.
+A self-hosted multimedia moodboard with multiple content types, <br>
+anonymous reactions and a protected administration interface. <br>
 
 `Node.js` `Express` `SQLite` `Nunjucks` `HTMX` `Docker`
 
 ## Core stack
 
-**Languages:** TypeScript, JavaScript, Python, Luau, C, C++  
-**Systems:** Linux, Docker, PostgreSQL, Caddy  
-**Networking:** VPN, reverse proxies, Matrix, REST APIs  
-**Embedded & RF:** ESP32, HackRF, RTL-SDR
+**Languages:** TypeScript, JavaScript, Python, Luau, C, C++   <br>
+**Systems:** Linux, Docker, PostgreSQL, Caddy   <br>
+**Networking:** VPN, reverse proxies, Matrix, REST APIs   <br>
+**Embedded & RF:** ESP32, HackRF, RTL-SDR <br>
