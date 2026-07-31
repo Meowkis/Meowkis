@@ -46,7 +46,7 @@ A self-hosted multimedia moodboard with multiple content types, anonymous reacti
 
 ## Core stack
 
-**Languages:** TypeScript, Python, Luau, C, C++
-**Infrastructure:** Linux, Docker, Caddy, PostgreSQL
-**Networking:** VPN infrastructure, reverse proxies, Matrix
-**Embedded & RF:** ESP32, HackRF, RTL-SDR
+**Languages:** TypeScript, Python, Luau, C, C++ <br>
+**Infrastructure:** Linux, Docker, Caddy, PostgreSQL <br>
+**Networking:** VPN infrastructure, reverse proxies, Matrix <br>
+**Embedded & RF:** ESP32, HackRF, RTL-SDR <br>
