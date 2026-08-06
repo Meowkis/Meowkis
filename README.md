@@ -2,7 +2,7 @@
 
 # Meowkis
 
-**Software developer focused on Linux systems, networking, self-hosted infrastructure and embedded hardware.**
+**Linux, networking, self-hosting and embedded**
 
 <p>
   <a href="https://meowkis.ru">
@@ -16,37 +16,22 @@
   </a>
 </p>
 
-<sub>Powered by caffeine.</sub>
-
 </div>
 
----
-
-## About
-
-I build and maintain self-hosted infrastructure, network services and automation tools, including systems that interact with physical hardware.
-
-My work includes VPN and Matrix infrastructure, reverse proxies, containerized services, internal administration tools and production Roblox backend systems.
-
-I am currently exploring embedded development, SDR and radio astronomy.
-
-## Selected projects
+## Projects
 
 ### [Esublim](https://github.com/Meowkis/Esublim)
 
-A Wayland-native reimplementation of `asublim`, built with GTK4 and `gtk4-layer-shell` for compositors such as Hyprland and Sway.
+Wayland-native `asublim` reimplementation built with GTK4 and `gtk4-layer-shell`.
 
-`C` `GTK4` `Wayland` `wlr-layer-shell`
+`C` `GTK4` `Wayland`
 
 ### [Meowboard](https://github.com/Meowkis/meowboard-js)
 
-A self-hosted multimedia moodboard with multiple content types, anonymous reactions and a protected administration interface.
+Self-hosted multimedia moodboard with reactions and a protected administration interface.
 
-`Node.js` `Express` `SQLite` `Nunjucks` `HTMX` `Docker`
+`Node.js` `Express` `SQLite` `HTMX` `Docker`
 
-## Core stack
+## Stack
 
-**Languages:** TypeScript, Python, Luau, C, C++ <br>
-**Infrastructure:** Linux, Docker, Caddy, PostgreSQL <br>
-**Networking:** VPN infrastructure, reverse proxies, Matrix <br>
-**Embedded & RF:** ESP32, HackRF, RTL-SDR <br>
+`TypeScript` `Python` `C` `C++` `Linux` `Docker` `Caddy` `PostgreSQL` `ESP32` `HackRF` `RTL-SDR`
