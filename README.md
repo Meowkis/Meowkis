@@ -22,7 +22,7 @@
 
 ### [Esublim](https://github.com/Meowkis/Esublim)
 
-Wayland-native `asublim` reimplementation built with GTK4 and .
+Wayland-native [ `asublim`](https://github.com/enkiv2/asublim) reimplementation built with GTK4 and .
 
 ![C](https://img.shields.io/badge/-C-181717?&logo=c&logoColor=white) ![GTK4](https://img.shields.io/badge/-GTK4-181717?&logo=gtk&logoColor=white) ![Wayland](https://img.shields.io/badge/-Wayland-181717?&logo=wayland&logoColor=white)
 
