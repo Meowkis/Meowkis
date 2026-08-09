@@ -43,5 +43,5 @@ Self-hosted multimedia moodboard with reactions and a protected administration i
 ![Caddy](https://img.shields.io/badge/-Caddy-181717?&logo=caddy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?&logo=postgresql&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-181717?&logo=espressif&logoColor=white)
-![HackRF](https://img.shields.io/badge/-HackRF-181717?)
-![RTL-SDR](https://img.shields.io/badge/-RTL--SDR-181717?)
+![HackRF](https://img.shields.io/badge/-HackRF-181717?logo=wikiquote&logoColor=white)
+![RTL-SDR](https://img.shields.io/badge/-RTL--SDR-181717?logo=wikiquote&logoColor=white)
