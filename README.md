@@ -45,7 +45,7 @@ What started as an investigation into an apparently incompatible kernel layout e
 
 The investigation ultimately demonstrated that Samsung's 5.15.189 kernel is not a dead end, with working ports demonstrated on devices including the **Galaxy S23 Ultra** and **Galaxy Z Flip 5**.
 
-[Full investigation](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/issues/160) · [Z Flip 5 port](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/issues/205)
+[Full investigation](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/issues/160) · [S23 Ultra port](https://github.com/)
 
 
 ## Stack
