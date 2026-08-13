@@ -32,6 +32,22 @@ Self-hosted multimedia moodboard with reactions and a protected administration i
 
 ![Node.js](https://img.shields.io/badge/-Node.js-181717?&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-181717?&logo=express&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-181717?&logo=sqlite&logoColor=white) ![HTMX](https://img.shields.io/badge/-HTMX-181717?&logo=htmx&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-181717?&logo=docker&logoColor=white)
 
+## Research
+
+### Samsung 5.15 Kernel Investigation
+
+Community-driven investigation into porting the root exploit to Samsung's 5.15 kernel family.
+
+A swarm 
+**26 participants · ~250 comments · 1 week · working 5.15.189 Samsung hardened kernel ports**
+
+What started as an investigation into an apparently incompatible kernel layout evolved into a successful porting effort involving kernel structure analysis, offset validation, payload comparison, primitive testing and cross-device debugging.
+
+The investigation ultimately demonstrated that Samsung's 5.15.189 kernel is not a dead end, with working ports demonstrated on devices including the **Galaxy S23 Ultra** and **Galaxy Z Flip 5**.
+
+[Full investigation](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/issues/160) · [Z Flip 5 port](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/issues/205)
+
+
 ## Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-181717?&logo=typescript&logoColor=white)
