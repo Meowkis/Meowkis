@@ -2,7 +2,7 @@
 
 # Meowkis
 
-**Linux, networking, self-hosting and embedded**
+**Linux, networking, penetration testing and embedded**
 
 <p>
   <a href="https://meowkis.ru">
