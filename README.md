@@ -38,8 +38,8 @@ Self-hosted multimedia moodboard with reactions and a protected administration i
 
 Community-driven investigation into porting the root exploit to Samsung's 5.15 kernel family.
 
-A swarm 
-**26 participants · ~250 comments · 1 week · working 5.15.189 Samsung hardened kernel ports**
+
+**A swarm of 26 participants · ~250 comments · 1 week · working 5.15.189 Samsung hardened kernel ports**
 
 What started as an investigation into an apparently incompatible kernel layout evolved into a successful porting effort involving kernel structure analysis, offset validation, payload comparison, primitive testing and cross-device debugging.
 
