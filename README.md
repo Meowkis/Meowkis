@@ -26,12 +26,6 @@ Wayland-native [ `asublim`](https://github.com/enkiv2/asublim) reimplementation 
 
 ![C](https://img.shields.io/badge/-C-181717?&logo=c&logoColor=white) ![GTK4](https://img.shields.io/badge/-GTK4-181717?&logo=gtk&logoColor=white) ![Wayland](https://img.shields.io/badge/-Wayland-181717?&logo=wayland&logoColor=white)
 
-### [Meowboard](https://github.com/Meowkis/meowboard-js)
-
-Self-hosted multimedia moodboard with reactions and a protected administration interface.
-
-![Node.js](https://img.shields.io/badge/-Node.js-181717?&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-181717?&logo=express&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-181717?&logo=sqlite&logoColor=white) ![HTMX](https://img.shields.io/badge/-HTMX-181717?&logo=htmx&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-181717?&logo=docker&logoColor=white)
-
 ## Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-181717?&logo=typescript&logoColor=white)
